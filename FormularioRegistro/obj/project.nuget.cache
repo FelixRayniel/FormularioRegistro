@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHTmlVeM4DrQr45BJc5O18/n6JcOB8vS2/v297fL3XFtkiN0bCSlkBwp+kXT2r3VgaUeSoN1ImOB7aWP8NYIiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KingB\\OneDrive - Universidad Católica Nordestana (UCNE)\\Principal\\Actuales\\3-2021\\Programacion Aplicada I\\FormularioRegistro\\FormularioRegistro\\FormularioRegistro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KingB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
